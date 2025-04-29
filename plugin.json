@@ -1,0 +1,9 @@
+{
+    "name": "LaTeX",
+    "version": "1.0.0",
+    "main": "index.html",
+    "title": "LaTeX for Penpot",
+    "description": "Render LaTeX equations in Penpot using KaTeX and insert them as SVG.",
+    "author": "Serialkid",
+    "license": "MIT"
+  }
